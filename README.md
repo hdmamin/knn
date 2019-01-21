@@ -1,13 +1,11 @@
-## Complete but not yet uploaded:
+## Complete but not in repo:
 - different linear regression w/ momentum
 - kmeans in R
 - neural networks from Andrew Ng's deep learning course (standard, LSTM, GRU, RNN)
 
 ## Future possibilities:
-- refactor kmeans
-- refactor linear regression
-- find and refactor multivariate linear regression
-- find and refactor logistic regression
+- refactor/improve older code (kmeans, univariate linear regression)
+- fix and improve older code (multivariate linear regression, logistic regression)
 
 ## Other Ideas:
 - SVM
