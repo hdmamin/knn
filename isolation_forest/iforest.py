@@ -1,4 +1,3 @@
-# Algorithm: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf
 import math
 import numpy as np
 import pandas as pd
@@ -6,7 +5,10 @@ import random
 
 
 class IsolationTreeEnsemble:
-    """An Isolation Forest for anomaly detection."""
+    """An Isolation Forest for anomaly detection.
+
+    https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf
+    """
 
     def __init__(self, sample_size, n_trees=10):
         """Initialize isolation forest.
